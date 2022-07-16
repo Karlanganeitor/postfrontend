@@ -1,0 +1,42 @@
+{
+    "contabilidad": [
+        {
+            "id":1,
+            "nfactura": "6XSDAS2Sa585S",
+            "Precio" :1265,
+            "cantidad": 2,
+            "objeto": "play 2"
+        },
+        {
+            "id":1,
+            "nfactura": "6XSDAS2S4585S",
+            "Precio" :30000,
+            "cantidad": 1,
+            "objeto": "play 2"
+        },
+        {
+            "id":1,
+            "nfactura": "3SDAS2S4585S",
+            "Precio" :1215451,
+            "cantidad": 12,
+            "objeto": "play 2"
+        },
+        {
+            "id":1,
+            "nfactura": "FAXSDAS2S4585S",
+            "Precio" :1315,
+            "cantidad": 1,
+            "objeto": "play 2"
+        },
+        {
+            "id":1,
+            "nfactura": "FRSDAS2S4585S",
+            "Precio" :1265,
+            "cantidad": 2,
+            "objeto": "play 2"
+        }
+    ],
+    "profile":{
+        "name": "carlos"
+    }
+}

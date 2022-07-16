@@ -1,0 +1,16 @@
+    <div class="container" *ngIf="contabilidad">
+        <div class="row mt-5">
+            <div class="col-md-4 mx-auto">
+                <form (ngSubmit)="onUpdate()" novalidate #f="ngForm">
+                    <div class="form-group">
+                        <label for="nfactura">Nombre</label>
+                        <input type="text" class="form-control" id="nfactura" name="nfactura"
+                        [(ngModel)]="contabilidad.nfactura"
+                         required autocomplete="off">
+                    </div> 
+                   
+                </form>
+            </div>
+        </div>
+    </div>
+    
